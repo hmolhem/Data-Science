@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0104110a-248a-4cb4-93c4-a728538c8bfe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aL3Fqc627FeK3PqcX1f0bggjsH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter-03" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="python-fundamental" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="python-fundamental" />
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Hossein\Python\maktabkhone\python-fundamental\chapter-03" />
+      <recent name="D:\Hossein\Python\maktabkhone\python-fundamental\chapter-05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.7learn">
+    <configuration name="7learn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7learn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="source" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-05/source.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="source_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-05/source_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_ch03_t12_v01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-03/task_ch03_t12_v01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-fundamental" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter-05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter-05/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.source" />
+      <item itemvalue="Python.source_03" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.task_ch03_t12_v01" />
+      <item itemvalue="Python.7learn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.7learn" />
+        <item itemvalue="Python.task_ch03_t12_v01" />
+        <item itemvalue="Python.source" />
+        <item itemvalue="Python.source_03" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0104110a-248a-4cb4-93c4-a728538c8bfe" name="Default Changelist" comment="" />
+      <created>1586500945602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586500945602</updated>
+      <workItem from="1586500982237" duration="20784000" />
+      <workItem from="1586525333626" duration="17632000" />
+      <workItem from="1586585859987" duration="3378000" />
+      <workItem from="1586681864053" duration="5948000" />
+      <workItem from="1586807594544" duration="2479000" />
+      <workItem from="1586966333812" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Inspections" timestamp="1586501647883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1586501647883" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586518502793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586518502793" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586539565333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586539565333" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1586966951047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586966951047" />
+    <state width="1493" height="367" key="GridCell.Tab.0.bottom" timestamp="1586811559754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586811559754" />
+    <state width="1493" height="367" key="GridCell.Tab.0.center" timestamp="1586811559754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586811559754" />
+    <state width="1493" height="367" key="GridCell.Tab.0.left" timestamp="1586811559754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586811559754" />
+    <state width="1493" height="367" key="GridCell.Tab.0.right" timestamp="1586811559754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586811559754" />
+    <state width="1493" height="380" key="GridCell.Tab.1.bottom" timestamp="1586525271553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="380" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586525271553" />
+    <state width="1493" height="380" key="GridCell.Tab.1.center" timestamp="1586525271552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="380" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586525271552" />
+    <state width="1493" height="380" key="GridCell.Tab.1.left" timestamp="1586525271552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="380" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586525271552" />
+    <state width="1493" height="380" key="GridCell.Tab.1.right" timestamp="1586525271552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="380" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586525271552" />
+    <state x="281" y="66" key="SettingsEditor" timestamp="1586707462453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="281" y="66" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586707462453" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586966931695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586966931695" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_fundamental$source.coverage" NAME="source Coverage Results" MODIFIED="1586539579452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-05" />
+    <SUITE FILE_PATH="coverage/python_fundamental$task_ch03_t12_v01.coverage" NAME="task_ch03_t12_v01 Coverage Results" MODIFIED="1586706593317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-03" />
+    <SUITE FILE_PATH="coverage/python_fundamental$7learn.coverage" NAME="7learn Coverage Results" MODIFIED="1586810615867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fundamental$source_02.coverage" NAME="source_02 Coverage Results" MODIFIED="1586505458386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-05" />
+    <SUITE FILE_PATH="coverage/python_fundamental$test.coverage" NAME="test Coverage Results" MODIFIED="1586538910573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-05" />
+    <SUITE FILE_PATH="coverage/python_fundamental$source_03.coverage" NAME="source_03 Coverage Results" MODIFIED="1586539120214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter-05" />
+  </component>
+</project>
